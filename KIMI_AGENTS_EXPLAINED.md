@@ -38,7 +38,7 @@ PARL-trained model capable of orchestrating ~100 agents across ~1.5k steps. (Add
 
 ## Base Chat vs. Kimi Agent (OK Computer)
 
-The same Kimi model powers two different experiences. Base Chat at kimi.com/chat is conversational: 10 tool calls per turn, no skill loading, no persistent filesystem. It's a question-answering system. OK Computer at kimi.com/agent is agentic: 200-300 tool calls per session, runtime skill injection, persistent workspace. It produces deliverables.
+The same Kimi model powers two different experiences. Base Chat at kimi.com/chat is conversational: 10 tool calls per turn, no skill loading, no persistent filesystem. It's a question-answering system. OK Computer at kimi.com/agent is agentic with runtime skill injection. It produces deliverables.
 
 Both modes run on identical infrastructure: `kernel_server.py` manages the control plane, `jupyter_kernel.py` runs the IPython kernel, and `browser_guard.py` handles Playwright automation. The difference is configuration: tool budgets, skill loading, and workspace paths.
 
