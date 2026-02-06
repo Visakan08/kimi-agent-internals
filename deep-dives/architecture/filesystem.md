@@ -243,7 +243,7 @@ The application directory at `/app/` contains the core platform implementation. 
 ├── .kimi/                        # Kimi platform configuration
 │   └── skills/                   # Skill modules directory
 │       ├── docx/                 # DOCX processing skill
-│       │   ├── SKILLS.md         # Skill documentation
+│       │   ├── SKILL.md         # Skill documentation
 │       │   ├── scripts/          # Python scripts
 │       │   │   ├── __init__.py   # Package initialization
 │       │   │   ├── docx_skill.py # Main skill implementation
@@ -264,7 +264,7 @@ The application directory at `/app/` contains the core platform implementation. 
 │       │       └── System.IO.Packaging.dll
 │       │
 │       ├── pdf/                  # PDF processing skill
-│       │   ├── SKILLS.md         # Skill documentation
+│       │   ├── SKILL.md         # Skill documentation
 │       │   └── scripts/          # Python scripts
 │       │       ├── __init__.py
 │       │       ├── pdf_skill.py
@@ -272,14 +272,14 @@ The application directory at `/app/` contains the core platform implementation. 
 │       │       └── tectonic      # LaTeX processing binary (57MB)
 │       │
 │       ├── webapp-building/      # Webapp building skill
-│       │   ├── SKILLS.md         # Skill documentation
+│       │   ├── SKILL.md         # Skill documentation
 │       │   └── scripts/          # Python scripts
 │       │       ├── __init__.py
 │       │       ├── webapp_skill.py
 │       │       └── requirements.txt
 │       │
 │       └── xlsx/                 # XLSX processing skill
-│           ├── SKILLS.md         # Skill documentation
+│           ├── SKILL.md         # Skill documentation
 │           └── scripts/          # Python scripts
 │               ├── __init__.py
 │               ├── xlsx_skill.py

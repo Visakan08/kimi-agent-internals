@@ -1,3 +1,5 @@
+> **Original documentation by the repository maintainer, licensed under CC BY 4.0.**
+
 # Tools
 
 Tool schemas and documentation for the Kimi K2.5 agent system.

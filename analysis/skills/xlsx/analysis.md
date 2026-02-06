@@ -1,3 +1,5 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+
 # XLSX Skill Analysis
 
 Comprehensive analysis of the Excel spreadsheet generation skill.

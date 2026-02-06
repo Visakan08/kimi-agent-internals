@@ -1,3 +1,5 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+
 # Execution Flows and Tool Chains
 
 This document maps how tools chain together in different execution scenarios.

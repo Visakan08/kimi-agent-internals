@@ -1,3 +1,5 @@
+> **Original documentation by the repository maintainer, licensed under CC BY 4.0.**
+
 # Analysis
 
 Research findings and insights from analyzing the Kimi K2.5 agent system.

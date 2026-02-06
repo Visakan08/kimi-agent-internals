@@ -1,3 +1,5 @@
+> **Original documentation by the repository maintainer, licensed under CC BY 4.0.**
+
 # The Skill System
 
 Skills are detailed instruction manuals that transform Kimi's generic tools into domain-specific experts. When you ask for a spreadsheet, the agent reads a 925-line manual on Excel compatibility before it does anything else.

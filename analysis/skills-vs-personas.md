@@ -1,3 +1,5 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+
 # Skills versus Personas
 
 Kimi Slides doesn't work like the other specialized agents. Docs, Sheets, and Websites use skill scaffolding: they take the OK Computer base prompt and add technical documentation. Slides replaces the entire identity with a McKinsey consultant persona. This is a fundamentally different approach to specialization.

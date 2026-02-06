@@ -114,7 +114,7 @@ kimi-agent-internals/
     ├── base-chat.json        # Base Chat tool schemas
     ├── ok-computer.json      # OK Computer tool schemas
     ├── base-chat/            # 9 tool docs
-    └── ok-computer/          # 28 tool docs
+    └── ok-computer/          # 29 tool docs
 ```
 
 ---
@@ -133,7 +133,7 @@ kimi-agent-internals/
 
 ## What This Repository Contains
 
-System prompts for six agent types: Base Chat, OK Computer, Docs, Sheets, Slides, and Websites. Skill definitions for DOCX, XLSX, PDF, and WebApp output formats. Tool schemas documenting 37 distinct tools. [Source code samples](source-code-sample/) for the runtime environment. Technical analysis of the architecture, security model, and design patterns.
+System prompts for six agent types: Base Chat, OK Computer, Docs, Sheets, Slides, and Websites. Skill definitions for DOCX, XLSX, PDF, and WebApp output formats. Tool schemas documenting 38 distinct tools. [Source code samples](source-code-sample/) for the runtime environment. Technical analysis of the architecture, security model, and design patterns.
 
 ---
 

@@ -1,3 +1,5 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+
 # WebApp Skill Analysis
 
 Comprehensive analysis of the React web application generation skill.

@@ -115,7 +115,7 @@ The agentic generalist prompt. Extends Base Chat with:
 - Effectively unlimited step budget
 - Full filesystem read-write (`/mnt/okcomputer/`)
 - Persistence across turns
-- 28+ tools including browser automation
+- 29 tools including browser automation
 - Skill loading capability
 
 Key behavioral instruction: *"You are an advanced AI agent capable of complex multi-step tasks. You have access to a persistent environment where state is maintained across interactions."*
@@ -198,7 +198,7 @@ User: "Create a Word document about climate change"
 
 **Base Chat** uses the base prompt only with a 10-step budget, no persistence, no skill loading, 9 tools, and read-only filesystem access.
 
-**OK Computer** uses the base prompt only with effectively unlimited step budget, full persistence, dynamic skill loading, 28 plus tools, and read-write filesystem access.
+**OK Computer** uses the base prompt only with effectively unlimited step budget, full persistence, dynamic skill loading, 29 tools, and read-write filesystem access.
 
 **Docs, Sheets, and Websites** use skill scaffolding on top of OK Computer with effectively unlimited step budget, full persistence, pre-loaded skills, 28 plus tools, and read-write filesystem access.
 

@@ -1,3 +1,5 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+
 # PDF Skill Analysis
 
 Comprehensive analysis of the PDF generation and processing skill.

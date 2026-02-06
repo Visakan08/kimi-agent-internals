@@ -34,7 +34,7 @@ Prefix used for OK Computer tools (e.g., `mshtools-web_search`, `mshtools-shell`
 The 9 tools available to the Base Chat agent: web_search, web_open_url, ipython, shell, memory_space_edits, search_image_by_text, search_image_by_image, get_data_source, get_data_source_desc.
 
 ### OK Computer Tools
-The 28+ tools available to OK Computer and specialized agents. Includes browser automation, file operations, image generation, voice/speech, and deployment tools.
+The 29 tools available to OK Computer and specialized agents. Includes browser automation, file operations, image generation, voice/speech, and deployment tools.
 
 ## Skill Terms
 
