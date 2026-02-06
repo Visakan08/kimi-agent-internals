@@ -200,9 +200,9 @@ User: "Create a Word document about climate change"
 
 **OK Computer** uses the base prompt only with effectively unlimited step budget, full persistence, dynamic skill loading, 29 tools, and read-write filesystem access.
 
-**Docs, Sheets, and Websites** use skill scaffolding on top of OK Computer with effectively unlimited step budget, full persistence, pre-loaded skills, 28 plus tools, and read-write filesystem access.
+**Docs, Sheets, and Websites** use skill scaffolding on top of OK Computer with effectively unlimited step budget, full persistence, pre-loaded skills, 29 tools, and read-write filesystem access.
 
-**Slides** uses persona replacement instead of skill scaffolding with effectively unlimited step budget, full persistence, 28 plus tools, and read-write filesystem access.
+**Slides** uses persona replacement instead of skill scaffolding with effectively unlimited step budget, full persistence, 29 tools, and read-write filesystem access.
 
 ---
 
