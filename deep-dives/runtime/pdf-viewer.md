@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # PDF Viewer Analysis
 ## `/app/pdf-viewer/` — Chrome Extension for PDF Rendering
 

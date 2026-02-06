@@ -1,3 +1,11 @@
+# ============================================================
+# NOTICE: This file was extracted from the Kimi K2.5 agent
+# environment. It was provided by the agent in response to
+# plain-English questions. The repository maintainer does not
+# claim copyright. This file is included for research and
+# educational purposes. See ../LICENSE for details.
+# ============================================================
+
 #!/usr/bin/env python3
 """
 Jupyter Kernel Management Server

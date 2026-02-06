@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # Tectonic LaTeX Compiler
 
 Tectonic is a modern, self-contained LaTeX compiler based on the XeTeX engine. At 57,402,608 bytes, this binary provides complete LaTeX compilation capabilities without requiring a full TeX Live installation. It automatically downloads required packages on first use.

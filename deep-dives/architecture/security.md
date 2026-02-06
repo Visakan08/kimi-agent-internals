@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # Security Notes
 
 Kimi's security model assumes container isolation. Within that boundary, the environment is surprisingly permissive. This isn't necessarily a flaw; rather, it's a design choice with trade-offs worth understanding.

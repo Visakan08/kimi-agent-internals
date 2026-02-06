@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # The Browser Guard
 
 At 1,178 lines, browser_guard.py is the largest Python module in the core infrastructure. It handles browser automation through a dual-implementation strategy: Playwright for high-level automation and Chrome DevTools Protocol for low-level control. The complexity exists because of the challenges of modern browser automation—bot detection, stealth injection, persistent profiles, and failure recovery.

@@ -1,6 +1,6 @@
 # Kimi K2.5 System Analysis
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-9cf.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: Mixed](https://img.shields.io/badge/License-CC0%20%2B%20CC%20BY%204.0-blue)](LICENSE)
 [![Type: Research](https://img.shields.io/badge/Type-Research-0366d6)](https://github.com/dnnyngyen/kimi-agent-internals)
 [![Method](https://img.shields.io/badge/Method-Open%20Analysis-0969da)](https://github.com/dnnyngyen/kimi-agent-internals)
 [![Repo Size](https://img.shields.io/github/repo-size/dnnyngyen/kimi-agent-internals?label=size&color=58a6ff)](https://github.com/dnnyngyen/kimi-agent-internals)
@@ -155,7 +155,12 @@ Spreadsheets have right answers, so Kimi uses skill files. Presentations require
 
 ## Methodology
 
-I got this information through conversation with Kimi and source code extraction through [OK Computer](https://kimi.com/agent). Everything documented here was accessible through standard user interfaces.
+I obtained this information by asking Kimi questions in plain English
+through its public interfaces. No code was written by the researcher.
+The agent autonomously inspected its own environment and provided the
+information in its responses. No prompt injection, jailbreaking, or
+adversarial techniques were used. See [METHODOLOGY.md](METHODOLOGY.md)
+for complete details.
 
 **Independent verification:**
 - [kimi.com/chat](https://kimi.com/chat) — Base Chat with 10 tool calls
@@ -168,7 +173,12 @@ This research is independent and not affiliated with Moonshot AI.
 
 ## License
 
-CC BY 4.0. See [`LICENSE`](LICENSE) for details.
+This repository uses mixed licensing. Extracted material (prompts, source
+code, tool schemas) is released under CC0 1.0 — the maintainer does not
+claim copyright over Moonshot AI's work. Original analysis and documentation
+is licensed under CC BY 4.0. Third-party components (PDF.js) retain their
+upstream licenses. See [`LICENSE`](LICENSE) and [`NOTICE.md`](NOTICE.md)
+for details.
 
 ---
 

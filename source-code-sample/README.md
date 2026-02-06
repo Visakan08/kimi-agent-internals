@@ -1,6 +1,10 @@
 # Source Code Sample
 
-> **Sample only.** This directory contains a representative sample of the extracted Python runtime code for legal and educational purposes. It is not the complete source code.
+> **Extracted material — not authored by this repository's maintainer.**
+> These files were provided by the Kimi agent in response to plain-English
+> questions about its own environment. They are released under CC0 1.0 to
+> the extent of any rights the maintainer may hold. Moonshot AI may hold
+> copyright or other rights in this material. See [../LICENSE](../LICENSE).
 
 Extracted Python runtime code for the Kimi K2.5 agent environment.
 

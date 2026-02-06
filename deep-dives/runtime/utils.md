@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # Utility Functions
 
 The utils.py module provides common utility functions for the Kimi agent system. At just 41 lines, this lightweight module contains helper functions for display detection, subprocess execution, and system operations.

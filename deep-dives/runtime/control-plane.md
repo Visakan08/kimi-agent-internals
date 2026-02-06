@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # The Kernel Server
 
 The kernel server is a FastAPI application that provides HTTP control over the Jupyter kernel. It's the interface between the outer orchestration system and the Python execution environment.

@@ -1,4 +1,5 @@
 {
+    "_notice": "Extracted from Kimi agent. Maintainer does not claim copyright. See ../LICENSE.",
     "namespace": "default",
     "tools": [
         {

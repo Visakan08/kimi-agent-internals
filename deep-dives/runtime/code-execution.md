@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # The Jupyter Kernel
 
 The Jupyter kernel module handles Python code execution within the agent system. At around 500 lines, it manages kernel initialization, code submission, output capture, and health monitoring. The implementation is notably defensive, with multiple fallback strategies for compatibility across different jupyter-client versions.

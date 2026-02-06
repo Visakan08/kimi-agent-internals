@@ -1,3 +1,7 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+> Code snippets shown below are excerpted from extracted source code for
+> commentary and criticism purposes.
+
 # Chrome Data Analysis
 ## `/app/data/chrome_data/` — Chromium Profile Persistence
 
