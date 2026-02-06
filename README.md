@@ -41,12 +41,6 @@ kimi-agent-internals/
 ├── METHODOLOGY.md            # How the analysis was conducted
 ├── LICENSE                   # Mixed: CC0 + CC BY 4.0 + Apache 2.0
 │
-├── analysis/                 # Research findings and insights
-│   ├── README.md
-│   ├── how-kimi-works.md
-│   ├── skills-vs-personas.md
-│   └── execution-flows.md
-│
 ├── deep-dives/               # Technical reference documentation
 │   ├── README.md
 │   ├── architecture/         # System architecture

@@ -6,6 +6,13 @@ No authentication was bypassed. No adversarial or injection prompts were used.
 
 ---
 
+## AI Disclosure
+
+This research was conducted with assistance from
+[Claude Code](https://docs.anthropic.com/en/docs/claude-code) for
+organizing, analyzing, and documenting the findings. The extraction
+itself was performed entirely through conversation with Kimi.
+
 ## How the Extraction Worked
 
 I asked Kimi questions in natural language, across multiple conversational
@@ -89,10 +96,3 @@ The analysis covers what the agent was willing to share through standard
 conversation.
 
 ---
-
-## AI Disclosure
-
-This research was conducted with assistance from
-[Claude Code](https://docs.anthropic.com/en/docs/claude-code) for
-organizing, analyzing, and documenting the findings. The extraction
-itself was performed entirely through conversation with Kimi.
