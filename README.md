@@ -1,12 +1,12 @@
 # Kimi K2.5 System Analysis
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Type: Research](https://img.shields.io/badge/Type-Research-blue)](https://github.com/dnnyngyen/kimi-k2.5-system-analysis)
-[![Status](https://img.shields.io/badge/Status-Complete-success)](https://github.com/dnnyngyen/kimi-k2.5-system-analysis)
-[![Method](https://img.shields.io/badge/Method-Open%20Analysis-purple)](https://github.com/dnnyngyen/kimi-k2.5-system-analysis)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/dnnyngyen/kimi-k2.5-system-analysis)](https://github.com/dnnyngyen/kimi-k2.5-system-analysis)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/dnnyngyen/kimi-k2.5-system-analysis)](https://github.com/dnnyngyen/kimi-k2.5-system-analysis/commits/main)
-[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/dnnyngyen/kimi-k2.5-system-analysis)](https://github.com/dnnyngyen/kimi-k2.5-system-analysis/commits/main)
+[![Type: Research](https://img.shields.io/badge/Type-Research-blue)](https://github.com/dnnyngyen/kimi-k2.5-system-internals)
+[![Status](https://img.shields.io/badge/Status-Complete-success)](https://github.com/dnnyngyen/kimi-k2.5-system-internals)
+[![Method](https://img.shields.io/badge/Method-Open%20Analysis-purple)](https://github.com/dnnyngyen/kimi-k2.5-system-internals)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/dnnyngyen/kimi-k2.5-system-internals)](https://github.com/dnnyngyen/kimi-k2.5-system-internals)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/dnnyngyen/kimi-k2.5-system-internals)](https://github.com/dnnyngyen/kimi-k2.5-system-internals/commits/main)
+[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/dnnyngyen/kimi-k2.5-system-internals)](https://github.com/dnnyngyen/kimi-k2.5-system-internals/commits/main)
 
 > An analysis of Moonshot AI's Kimi K2.5 agent architecture.
 >
@@ -37,7 +37,7 @@ Kimi shifted from tool-use architectures to skill-based environment architecture
 ## Repository Structure
 
 ```
-kimi-k2.5-system-analysis/
+kimi-k2.5-system-internals/
 ├── README.md                 # Main entry point
 ├── GLOSSARY.md               # Terms and definitions
 ├── METHODOLOGY.md            # How the analysis was conducted
@@ -177,11 +177,11 @@ CC BY 4.0. See [`LICENSE`](LICENSE) for details.
 ## Star History
 
 <p align="center">
-  <a href="https://www.star-history.com/#dnnyngyen/kimi-k2.5-system-analysis&type=date">
+  <a href="https://www.star-history.com/#dnnyngyen/kimi-k2.5-system-internals&type=date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=dnnyngyen/kimi-k2.5-system-analysis&type=date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=dnnyngyen/kimi-k2.5-system-analysis&type=date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=dnnyngyen/kimi-k2.5-system-analysis&type=date" width="400" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=dnnyngyen/kimi-k2.5-system-internals&type=date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=dnnyngyen/kimi-k2.5-system-internals&type=date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=dnnyngyen/kimi-k2.5-system-internals&type=date" width="400" />
     </picture>
   </a>
 </p>
