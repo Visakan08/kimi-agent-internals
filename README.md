@@ -184,5 +184,7 @@ for details.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dnnyngyen/kimi-agent-internals&type=date&legend=top-left)](https://www.star-history.com/#dnnyngyen/kimi-agent-internals&type=date&legend=top-left)
+[![GitHub stars](https://img.shields.io/github/stars/dnnyngyen/kimi-agent-internals?style=social)](https://github.com/dnnyngyen/kimi-agent-internals/stargazers)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dnnyngyen/kimi-k2.5-system-analysis&type=date&legend=top-left)](https://www.star-history.com/#dnnyngyen/kimi-k2.5-system-analysis&type=date&legend=top-left)
 
