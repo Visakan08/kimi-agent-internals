@@ -9,7 +9,7 @@ Tool schemas and documentation for the Kimi K2.5 agent system.
 - [File Structure](#file-structure)
 - [Overview](#overview)
 - [Base Chat Tools (9)](#base-chat-tools-9)
-- [OK Computer Tools (28)](#ok-computer-tools-28)
+- [OK Computer Tools (29)](#ok-computer-tools-29)
 - [The Universal Shell Pattern](#the-universal-shell-pattern)
 - [Tool Prefix Note](#tool-prefix-note)
 - [Related Documentation](#related-documentation)
@@ -33,7 +33,7 @@ tools/
 │   ├── get_data_source.md
 │   ├── get_data_source_desc.md
 │   └── memory_space_edits.md
-└── ok-computer/           # 28 OK Computer tool docs
+└── ok-computer/           # 29 OK Computer tool docs
     ├── browser_visit.md
     ├── browser_click.md
     ├── browser_input.md
@@ -55,6 +55,7 @@ tools/
     ├── search_image_by_text.md
     ├── search_image_by_image.md
     ├── get_data_source.md
+    ├── get_data_source_desc.md
     ├── ipython.md
     ├── shell.md
     ├── todo_read.md
@@ -68,7 +69,7 @@ tools/
 
 ## Overview
 
-Kimi provides different tool sets depending on the agent mode. Base Chat gets 9 tools. OK Computer gets 28. The difference is not just quantity. It is capability.
+Kimi provides different tool sets depending on the agent mode. Base Chat gets 9 tools. OK Computer gets 29. The difference is not just quantity. It is capability.
 
 Base Chat can search the web, run Python, and access a read-only filesystem. OK Computer adds browser automation, image generation, voice synthesis, and full filesystem access. The same underlying model becomes dramatically more powerful through tooling alone.
 
@@ -96,7 +97,7 @@ Base Chat can search the web, run Python, and access a read-only filesystem. OK 
 
 ---
 
-## OK Computer Tools (28)
+## OK Computer Tools (29)
 
 **Browser Automation (8 tools)**
 

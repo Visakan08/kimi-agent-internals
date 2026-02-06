@@ -124,6 +124,32 @@
             }
         },
         {
+            "name": "shell",
+            "description": "Execute shell commands in a non-persistent environment with proper security and handling measures.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "command": {
+                        "type": "string",
+                        "description": "The shell command to execute."
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "Clear, concise summary (5-10 words) of what this command does."
+                    },
+                    "timeout": {
+                        "type": "integer",
+                        "description": "Optional timeout for command execution (in milliseconds, max: 600000)",
+                        "minimum": 1,
+                        "maximum": 600000
+                    }
+                },
+                "required": [
+                    "command"
+                ]
+            }
+        },
+        {
             "name": "get_data_source_desc",
             "description": "Get datasource description and API details for financial/economic/academic data sources including yahoo_finance, arxiv, world_bank_open_data, stock_finance_data, google_scholar.",
             "parameters": {

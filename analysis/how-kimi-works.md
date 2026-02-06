@@ -1,3 +1,5 @@
+> **Original analysis by the repository maintainer, licensed under CC BY 4.0.**
+
 # How Kimi Works
 
 Kimi K2.5 isn't one agent. It's multiple operating modes that share infrastructure but behave differently depending on what you're trying to do.
